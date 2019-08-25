@@ -63,13 +63,8 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: Ha3MrX              | 
-        |	       Version 1.0                |
- 	|   https://www.youtube.com/c/HA-MRX      |
-        +=========================================+
-        |..........  Facebook Cracker  ...........|
-        +-----------------------------------------+\n\n
-"""
+			siddharth        
+	"""
 	total = open(passwordlist,"r")
 	total = total.readlines()
 	print wel 
